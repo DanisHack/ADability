@@ -17,7 +17,7 @@
     "url": "https://github.com/DanisHack/ADability.git"
   },
   "bin": {
-    "pivot": "bin/pivot"
+    "server": "bin/server"
   },
   "dependencies": {
     "body-parser": "1.14.2",
